@@ -1,0 +1,11 @@
+This is a new file
+
+I read that Esc is to switch to command mode
+:w is save and continue editing
+:wq / ZZ is save and quit/exit vi
+:q! is quit vi and dont save changes
+:q! is quit vi and dont save changes
+yy is Yank(copy) a line of text
+p is paste a line of yanked text below the current line
+
+p is paste a line of yanked text below the current line
